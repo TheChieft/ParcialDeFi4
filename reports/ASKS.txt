@@ -1,0 +1,7 @@
+PUNTO 1.
+
+- Qué significa la variable "store_cat"? (Categorica no ordinal)
+- ¿Qué significa la variable "malls"? (Dicotomica)
+- ¿Qué es la variable "foot-trafic"?
+- ¿Qué es la variable "competencia"?
+

@@ -1,0 +1,37 @@
+Es un parcial aplicado. Una semana de parcial.
+Punto 1.
+- Dos base de datos con caracteristicas de datos con 100 tiendas y covariables de venta.
+- Tiendas sin la variable target
+
+Output (Hoja sheets)
+- Modelo predictivo para ventas de mes 34. Un punto por cada tienda.
+- Probar el modelo usando R² y MAPE. Se pueden usar otras metricas
+- Identificar las variables más importantes.
+- Estimar la ventas de las 10 tiendas nuevas.
+
+Punto 2.
+- Ventas mensuales de 100 tiendas durante 24 meses.
+- Recuerda la importancia del negocio, definir y justificar la parte del neogico
+
+
+output:
+- Justivficación del modelo de negocio
+- Una nueva tienda (tenemos la estimacion de puntos del modelo 1) construir una curva del segmento anterior. Se va a comparar con los puntos reales de la curva para revisar MAE.[El profe propuso random forest y datos funcionales]
+
+Punto 3.
+Uso del dinero en una oficina (Valor total) de un producto financiero. Nos va a dar la información diaria de varios meses. La idea es estimar los valores para noviembre.
+
+input:
+- Base de datos de dia por mes. (Una serie de tiempo) [Recomandacion AutoArima o Prophenet] [No nos da los datos realez esta multiplicado para guardar la confidencialidad de la empresa, pero si son datos reales en terminos de negocio]
+
+output:
+
+
+Preguntas.
+- ¿Metricas? Se califica por el MAPE principalmente. 
+- ¿Valores reales de predicción? 
+- ¿El punto 3 es en sheets tambien?
+
+WARNINGS
+- No parciales 100% iguales
+- 
