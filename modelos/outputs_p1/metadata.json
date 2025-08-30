@@ -1,0 +1,19 @@
+{
+  "python": "3.13.7 (main, Aug 14 2025, 00:00:00) [GCC 15.2.1 20250808 (Red Hat 15.2.1-1)]",
+  "libs": {
+    "pandas": "2.3.2"
+  },
+  "fecha": "2025-08-30T16:35:55.628589",
+  "params": {
+    "n_estimators": 1800,
+    "learning_rate": 0.014827586206896552,
+    "max_depth": 5,
+    "min_child_weight": 2,
+    "subsample": 0.6,
+    "colsample_bytree": 0.7,
+    "gamma": 0.1,
+    "reg_alpha": 0.0,
+    "reg_lambda": 1.0,
+    "log_target": true
+  }
+}

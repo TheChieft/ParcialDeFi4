@@ -4,7 +4,7 @@ Punto 1.
 - Tiendas sin la variable target
 
 Output (Hoja sheets)
-- Modelo predictivo para ventas de mes 34. Un punto por cada tienda.
+- Modelo predictivo para ventas de mes 24. Un punto por cada tienda.
 - Probar el modelo usando R² y MAPE. Se pueden usar otras metricas
 - Identificar las variables más importantes.
 - Estimar la ventas de las 10 tiendas nuevas.
